@@ -42,5 +42,9 @@ cd project-folder
 ```bash
 pip install -r requirements.txt
 ```
+## Tools & Technologies
+- **Programming Language**: Python
+- **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Surprise
+- **Development Environment**: Jupyter Notebooks
 
 Thank you for visiting my repository! 😊
