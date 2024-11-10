@@ -47,4 +47,4 @@ pip install -r requirements.txt
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Surprise
 - **Development Environment**: Jupyter Notebooks
 
-Thank you for visiting my repository! 😊
+Thank you for visiting my repository! 😊😊😊
